@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sisadek
-- 👀 I’m interested in ... deveploping ios app
+- 👀 I’m interested in ... deveploping Android app
 - 🌱 I’m currently learning ... script
 - 💞️ I’m looking to collaborate on ...java
 - 📫 How to reach me ...
